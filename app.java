@@ -1,1 +1,3 @@
+autocad
+studio max
 photoshop
